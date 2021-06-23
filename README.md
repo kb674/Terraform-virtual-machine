@@ -15,4 +15,4 @@ Run
 
 [Link](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples/virtual-machines/linux) to repository which contains configuration files to provision Linux VMS for different circumstances.
 
-[Link](https://github.com/terraform-providers/terraform-provider-azurerm) to repository which contains configuration files examples for different resources.
+[Link](https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples) to repository which contains configuration files examples for different resources.
